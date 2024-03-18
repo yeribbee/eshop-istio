@@ -1,0 +1,3 @@
+global:
+  eiparn: <<EIP ARN1>>,<<EIP ARN2>>
+  sslcert: <<ACM ARN>>
